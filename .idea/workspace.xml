@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e698032-54b1-4a65-87e1-46f9c8a3adce" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/bs1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/join.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/values.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test4.py" afterDir="false" />
     </list>
     <ignored path="python.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -380,17 +376,32 @@
       <option name="project" value="LOCAL" />
       <updated>1525164428284</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="gushihui">
+      <created>1525959096120</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1525959096120</updated>
+    </task>
+    <task id="LOCAL-00004" summary="gushihui">
+      <created>1525959248338</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1525959248338</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="232" y="79" width="1657" height="944" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2003621" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50208336" side_tool="true" weight="0.30576715" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49791667" visible="true" weight="0.30455637" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5003018" side_tool="true" visible="true" weight="0.3297362" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49728426" weight="0.30455637" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.49969825" visible="true" weight="0.3297362" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3297062" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="9" />
@@ -419,7 +430,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="string" />
     <MESSAGE value="string change1" />
-    <option name="LAST_COMMIT_MESSAGE" value="string change1" />
+    <MESSAGE value="gushihui" />
+    <option name="LAST_COMMIT_MESSAGE" value="gushihui" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/url.py">
